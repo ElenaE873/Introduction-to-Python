@@ -65,11 +65,6 @@
 ### Dictionaries
 - 1_Dictionaries_Introduction
 
-### Importing-Data
-- 1_Importing-Data-from-Internet
-- 2_Scraping-the-Web-in-Python
-- 3_APIs-and-JSONs
-
 ### OOP-Fundamentals
 - 1_OOP-Introduction
 - 2_OOP-Class-Anatomy
